@@ -127,17 +127,38 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e5dee5e9-3d9b-4487-9296-8c341aac8f12" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/97ecb134-f103-4626-a457-fd0f24755196" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1b5dfabb-29e2-49f0-80a6-6293e7203cae" width="250"/></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e5dee5e9-3d9b-4487-9296-8c341aac8f12" width="250"/><br/>
+      <sub>그림 1 – 과거 사람들이 상상한 미래 생활 장면</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/97ecb134-f103-4626-a457-fd0f24755196" width="250"/><br/>
+      <sub>그림 2 – 미래 교통수단과 도시 이미지</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1b5dfabb-29e2-49f0-80a6-6293e7203cae" width="250"/><br/>
+      <sub>그림 3 – 우주·기술 발전을 상상한 장면</sub>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b59665b3-468f-4f9b-80e1-a22b4365bb98" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9ef6e844-f77b-406a-81d6-f05463b44bea" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a25d39d4-d243-4f65-95eb-a03993032fb1" width="250"/></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b59665b3-468f-4f9b-80e1-a22b4365bb98" width="250"/><br/>
+      <sub>그림 4 – 주거 환경과 에너지 사용의 변화</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9ef6e844-f77b-406a-81d6-f05463b44bea" width="250"/><br/>
+      <sub>그림 5 – 일상 속 자동화·로봇 활용 장면</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a25d39d4-d243-4f65-95eb-a03993032fb1" width="250"/><br/>
+      <sub>그림 6 – 미래 교육·소통 방식 상상</sub>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/44c11770-3c8a-4d7b-ade1-8b54c5086438" width="250"/></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/44c11770-3c8a-4d7b-ade1-8b54c5086438" width="250"/><br/>
+      <sub>그림 7 – 미래 사회 전반을 정리한 종합 이미지</sub>
+    </td>
     <td></td>
     <td></td>
   </tr>
