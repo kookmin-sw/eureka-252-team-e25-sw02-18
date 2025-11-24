@@ -123,6 +123,8 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
 
  - 우리가 상상한 미래
 
+<img width="895" height="1263" alt="Image" src="https://github.com/user-attachments/assets/67aee321-2f7b-4371-8a07-77a29bcae825" />
+
 - 멘토링 ✔️  
   - 대학원 방문 및 선배 만나기
   
