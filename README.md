@@ -125,6 +125,24 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
 
 <img width="895" height="1263" alt="Image" src="https://github.com/user-attachments/assets/67aee321-2f7b-4371-8a07-77a29bcae825" />
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e5dee5e9-3d9b-4487-9296-8c341aac8f12" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/97ecb134-f103-4626-a457-fd0f24755196" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1b5dfabb-29e2-49f0-80a6-6293e7203cae" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b59665b3-468f-4f9b-80e1-a22b4365bb98" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9ef6e844-f77b-406a-81d6-f05463b44bea" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a25d39d4-d243-4f65-95eb-a03993032fb1" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/44c11770-3c8a-4d7b-ade1-8b54c5086438" width="250"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 - 멘토링 ✔️  
   - 대학원 방문 및 선배 만나기
   
