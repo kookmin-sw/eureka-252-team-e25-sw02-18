@@ -136,9 +136,10 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
       <sub><b>그림 2 – 스마트 팜</b><br/>센서·로봇·AI가 온도, 수분, 영양 상태를 실시간으로 관리하여 작물 생장을 자동으로 최적화하는 미래형 농업 공간.</sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/1b5dfabb-29e2-49f0-80e6-6293e7203cae" width="250"/><br/>
-      <sub><b>그림 3 – 에너지 그리드 시티</b><br/>도시 전체를 하나의 에너지 그리드로 묶어 신재생 에너지를 효율적으로 분배·저장·관리하는 스마트 에너지 도시.</sub>
-    </td>
+  <img src="https://github.com/user-attachments/assets/1b5dfabb-29e2-49f0-80a6-6293e7203cae" width="250"/><br/>
+  <sub><b>그림 3 – 에너지 그리드 시티</b><br/>
+  도시 전체를 하나의 에너지 그리드로 묶어 신재생 에너지를 효율적으로 분배·저장·관리하는 스마트 에너지 도시.</sub>
+</td>
   </tr>
   <tr>
     <td align="center">
