@@ -39,7 +39,10 @@
 
 - 프로젝트 진행 ✔️  
   - 과거에 사람들이 상상한 미래
-  
+    
+![Image](https://github.com/user-attachments/assets/75153cd5-c365-4ebf-95dc-9ba82bbf0fb1)
+![Image](https://github.com/user-attachments/assets/1af9c75f-1070-4fa1-b554-26354042d0c3)
+
   - 과거의 사람들이 상상한 미래에 관한 동영상을 시청한 후의 느낀 점
  - 그들이 만들어가는 세상
 
