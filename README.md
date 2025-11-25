@@ -164,13 +164,11 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
       <sub><b>그림 7 – AI 홈닥터</b><br/>
       집 안의 AI 의료 비서가 건강 상태를 상시 모니터링하고, 원격 진단·처방·진료를 지원하는 가정용 헬스케어 시스템.</sub>
     </td>
-
     <td align="center">
       <img src="https://github.com/user-attachments/assets/d0b5a3d0-c8d5-491e-bf59-81ba39d27e48" width="250"/><br/>
       <sub><b>그림 8 – 뇌–AI 통합</b><br/>
       뇌칩을 통하여 인간의 인지 능력과 AI가 직접 연결되어, 정보 습득과 기기 제어가 생각만으로도 가능해진 인간–기계 통합 모습.</sub>
     </td>
-
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b83168eb-290b-4fb4-809f-61cabb2f298c" width="250"/><br/>
       <sub><b>그림 9 – AI 스마트 치안 도시</b><br/>
@@ -178,7 +176,6 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
     </td>
   </tr>
 </table>
-
 
 느낀 점
 
