@@ -125,41 +125,60 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/e5dee5e9-3d9b-4487-9296-8c341aac8f12" width="250"/><br/>
-      <sub><b>그림 1 – 미래 교통수단(자율주행)</b><br/>자율주행 기술이 발전하여 도로 교통을 통합적으로 관리하고, 사람 개입을 최소화한 안전한 이동 환경을 구현한 모습.</sub>
+      <sub><b>그림 1 – 미래 교통수단(자율주행)</b><br/>
+      자율주행 기술이 발전하여 도로 교통을 통합적으로 관리하고, 사람 개입을 최소화한 안전한 이동 환경을 구현한 모습.</sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/97ecb134-f103-4626-a457-fd0f24755196" width="250"/><br/>
-      <sub><b>그림 2 – 스마트 팜</b><br/>센서·로봇·AI가 온도, 수분, 영양 상태를 실시간으로 관리하여 작물 생장을 자동으로 최적화하는 미래형 농업 공간.</sub>
+      <sub><b>그림 2 – 스마트 팜</b><br/>
+      센서·로봇·AI가 온도, 수분, 영양 상태를 실시간으로 관리하여 작물 생장을 자동으로 최적화하는 미래형 농업 공간.</sub>
     </td>
     <td align="center">
-  <img src="https://github.com/user-attachments/assets/1b5dfabb-29e2-49f0-80a6-6293e7203cae" width="250"/><br/>
-  <sub><b>그림 3 – 에너지 그리드 시티</b><br/>
-  도시 전체를 하나의 에너지 그리드로 묶어 신재생 에너지를 효율적으로 분배·저장·관리하는 스마트 에너지 도시.</sub>
-</td>
+      <img src="https://github.com/user-attachments/assets/1b5dfabb-29e2-49f0-80a6-6293e7203cae" width="250"/><br/>
+      <sub><b>그림 3 – 에너지 그리드 시티</b><br/>
+      도시 전체를 하나의 에너지 그리드로 묶어 신재생 에너지를 효율적으로 분배·저장·관리하는 스마트 에너지 도시.</sub>
+    </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b59665b3-468f-4f9b-80e1-a22b4365bb98" width="250"/><br/>
-      <sub><b>그림 4 – 개인 맞춤형 교육</b><br/>학생마다 수준과 흥미, 학습 속도에 맞춰 AI가 커리큘럼을 설계하고 1:1로 도와주는 개인화된 미래 교육 환경.</sub>
+      <sub><b>그림 4 – 개인 맞춤형 교육</b><br/>
+      학생마다 수준과 흥미, 학습 속도에 맞춰 AI가 커리큘럼을 설계하고 1:1로 도와주는 개인화된 미래 교육 환경.</sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/9ef6e844-f77b-406a-81d6-f05463b44bea" width="250"/><br/>
-      <sub><b>그림 5 – 디지털 트윈 스마트 도시</b><br/>현실 도시를 그대로 디지털로 복제한 ‘디지털 트윈’을 기반으로, AI가 교통·재난·인프라 상황을 시뮬레이션하며 도시를 관리하는 모습.</sub>
+      <sub><b>그림 5 – 디지털 트윈 스마트 도시</b><br/>
+      현실 도시를 그대로 디지털로 복제한 ‘디지털 트윈’을 기반으로, AI가 교통·재난·인프라 상황을 시뮬레이션하며 도시를 관리하는 모습.</sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/a25d39d4-d243-4f65-95eb-a03993032fb1" width="250"/><br/>
-      <sub><b>그림 6 – 미래 교통수단과 도시</b><br/>자율주행 이동수단, 스마트 도로·건물 등 다양한 첨단 교통 인프라가 결합된 미래 도시 이미지.</sub>
+      <sub><b>그림 6 – 미래 교통수단과 도시</b><br/>
+      자율주행 이동수단, 스마트 도로·건물 등 다양한 첨단 교통 인프라가 결합된 미래 도시 이미지.</sub>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/44c11770-3c8a-4d7b-ade1-8b54c5086438" width="250"/><br/>
-      <sub><b>그림 7 – AI 홈닥터</b><br/>집 안의 AI 의료 비서가 건강 상태를 상시 모니터링하고, 원격 진단·처방·진료를 지원하는 가정용 헬스케어 시스템.</sub>
+      <sub><b>그림 7 – AI 홈닥터</b><br/>
+      집 안의 AI 의료 비서가 건강 상태를 상시 모니터링하고, 원격 진단·처방·진료를 지원하는 가정용 헬스케어 시스템.</sub>
     </td>
-    <td></td>
-    <td></td>
+
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d0b5a3d0-c8d5-491e-bf59-81ba39d27e48" width="250"/><br/>
+      <sub><b>그림 8 – 뇌–AI 통합</b><br/>
+      뇌칩을 통하여 인간의 인지 능력과 AI가 직접 연결되어, 정보 습득과 기기 제어가 생각만으로도 가능해진 인간–기계 통합 모습.</sub>
+    </td>
+
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b83168eb-290b-4fb4-809f-61cabb2f298c" width="250"/><br/>
+      <sub><b>그림 9 – AI 스마트 치안 도시</b><br/>
+      인공지능 지능형 CCTV가 도시의 안전을 실시간 감시하고, 범죄를 예측하며 사고에 즉시 대응하여 효율적으로 도시를 관리하는 스마트 치안 도시.</sub>
+    </td>
   </tr>
 </table>
+
 
 느낀 점
 
