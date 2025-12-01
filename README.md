@@ -210,6 +210,8 @@ GPS 기능은 말 할 것도 없으며, 영사 기능이 있는 휴대전화는 
 
   - 내 지도 교수 함게 만나기
 
+![Image](https://github.com/user-attachments/assets/4ade0140-be9a-475b-b951-c8d80072a0ac)
+
 - 앞으로의 각오와 소감 나누기 ✔️  
 
 
